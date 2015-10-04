@@ -14,7 +14,9 @@ end
 get '/faq' do
 	erb :faq
 end
-
+get '/recipes' do
+	erb :recipes
+end
 get '/contact' do
 	erb :contact
 end
