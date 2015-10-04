@@ -303,3 +303,30 @@ a {
 	width: 85%;
 
 }
+/*--------------------------*/
+/*Recipes*/
+
+.pict {
+	/*border: 1px solid red;*/
+	margin:0 auto;
+	margin-left: 20px;
+	display: inline-block;
+}
+div #desc_1 {
+	display: inline-block;
+}
+
+#pict_desc {
+	width: 100%;
+	height: auto;
+	margin-bottom: 20px
+}
+#rumproastrecipe {
+	display:inline-block;
+	width: 45%;
+}
+.recipeIngredients {
+	display:block;
+	width:50%;
+
+}

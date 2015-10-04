@@ -15,4 +15,9 @@ $(document).ready(function() {
         });
     }, 12000);
 
+    $("#image1").click(function(){
+        $("#rumproastrecipe").fadeOut();
+        
+    });
+
 });
