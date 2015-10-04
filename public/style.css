@@ -1,6 +1,8 @@
 body {
 	width: 80%;
+
 	height:80%;
+
 	margin: 0px auto;
 }
 
@@ -9,8 +11,10 @@ h1 {
 	font-size: 36px;
 	color: black;
 	text-align: center;
+
 	margin-bottom:-2px;
 	margin-top:-2px;
+
 	
 }
 h2 {
@@ -96,7 +100,9 @@ a {
 }
 
 #main img {
+
 	margin: 0px auto;
+
 
 }
 
@@ -299,12 +305,14 @@ a {
     margin:20px;
   
 }
+
 #footer img{
 	width: 85%;
 
 }
 /*--------------------------*/
 /*Recipes*/
+
 
 .pict {
 	/*border: 1px solid red;*/
@@ -330,3 +338,23 @@ div #desc_1 {
 	width:50%;
 
 }
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+>>>>>>> 24e9057308e4a519346f6fd992b76a9cda2086a4
