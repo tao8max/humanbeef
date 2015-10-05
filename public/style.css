@@ -374,14 +374,15 @@ textarea {
 
 /*-----------Product Page------------*/
 .container {
-	width: 900px;
+	width: 100%;
 	margin: 0 auto;
-	background-color: red;
+	
 	height: 100%;
 }
 
 .items {
-	height: 250px;
+	height: auto;
+	width: 90%;
 }
 
 .left {
@@ -400,8 +401,8 @@ textarea {
 	height: 15%;*/
 	background-color: white;
 	text-align: justify;
-    padding: 16px;
-    margin-right: 20%;
+    padding: 10px;
+    margin-right: 1%;
    
 
 }
