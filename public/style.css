@@ -4,6 +4,7 @@ body {
 	height:80%;
 
 	margin: 0px auto;
+
 }
 
 h1 {
@@ -357,12 +358,52 @@ div #desc_1 {
 
 /*----------FAQ------*/
 
-.container h5 {
+.containerFAQ h5 {
     display: block;
 
 }
-.container .hide {
+.containerFAQ .hide {
     display: none;
+}
+
+/*-------Contact Form---------*/
+textarea {
+   height: 70px;
+   width: 400px;
+}
+
+/*-----------Product Page------------*/
+.container {
+	width: 900px;
+	margin: 0 auto;
+	background-color: red;
+	height: 100%;
+}
+
+.items {
+	height: 250px;
+}
+
+.left {
+	/*width: 15%;
+	height: 15%;*/
+	background-color: white;
+	float: left;
+	text-align: justify;
+    padding: 16px;
+
+
+}
+
+.right {
+	/*width: 60%;
+	height: 15%;*/
+	background-color: white;
+	text-align: justify;
+    padding: 16px;
+    margin-right: 20%;
+   
+
 }
 
 
