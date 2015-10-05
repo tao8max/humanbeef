@@ -15,9 +15,19 @@ $(document).ready(function() {
         });
     }, 12000);
 
+    // ----------Recipies------------
+
     $("#image1").click(function(){
         $("#rumproastrecipe").fadeOut();
         
+    });
+
+// --------- FAQ jQuary -------------
+
+
+     $('#main').on('click', 'h5', function (){
+        $(this).next().toggleClass('hide');
+        return false;
     });
 
 });

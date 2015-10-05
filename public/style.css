@@ -48,6 +48,20 @@ h4 {
 
 
 }
+
+h5 {
+	
+	font-style: Georgia;
+	font-size: 18px;
+	font-style: bold;
+	color: blue;
+	text-align: left;
+	margin-bottom:-2px;
+	margin-top:-2px;
+	
+
+}
+
 a {
 	font-size: 20px;
 }
@@ -57,12 +71,14 @@ a {
 #imgleft img {
     float: left; 
     margin: 0px 10px 5px 0px;
+    padding-right: 10px;
 
 }
 
 #imgright img {
     float: right; 
     margin: 0px 0px 5px 10px;
+    padding-left: 10px;
 
 }
 
@@ -339,6 +355,15 @@ div #desc_1 {
 
 }
 
+/*----------FAQ------*/
+
+.container h5 {
+    display: block;
+
+}
+.container .hide {
+    display: none;
+}
 
 
 
@@ -356,5 +381,3 @@ div #desc_1 {
 
 
 
-
->>>>>>> 24e9057308e4a519346f6fd992b76a9cda2086a4
