@@ -22,12 +22,4 @@ $(document).ready(function(){
 	});
 
 
-	// $("#image1").click(function(){
-	// var effect = 'slide';
- //    var slideLeft = { direction: $("slideLeft").val()};
- //    var duration = 500;
- //    $("#rumproastrecipe").toggle(effect, slideLeft, duration);
-	// });
-
-
 });

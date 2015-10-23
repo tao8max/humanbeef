@@ -1,0 +1,32 @@
+.container {
+	width: 900px;
+	margin: 0 auto;
+	background-color: red;
+	height: 100%;
+}
+
+.items {
+	height: 250px;
+}
+
+.left {
+	/*width: 15%;
+	height: 15%;*/
+	background-color: white;
+	float: left;
+	text-align: justify;
+    padding: 16px;
+
+
+}
+
+.right {
+	/*width: 60%;
+	height: 15%;*/
+	background-color: white;
+	text-align: justify;
+    padding: 16px;
+    margin-right: 20%;
+   
+
+}
