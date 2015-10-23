@@ -344,7 +344,7 @@ a {
 	margin-bottom: 20px
 }
 .description {
-	display: inline-block;
+	display: none;
 	width: 45%;
 	text-align: center
 

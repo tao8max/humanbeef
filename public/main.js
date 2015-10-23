@@ -15,7 +15,7 @@ $(document).ready(function() {
         });
     }, 12000);
 
-    // ----------Recipies------------
+    // ----------Recipes------------
 
     $("#image1").click(function(){
         $("#rumproastrecipe").fadeOut();
