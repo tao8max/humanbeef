@@ -1,9 +1,5 @@
 
 $(document).ready(function(){
-
-	// $("#rumproast").click(function(){
-	// $("#rumproastrecipe").slideToggle();
-	// });
 	$("#rumproast").click(function(){
 		if ( $("#rumproastrecipe").css("display") == 'none')
 			$ ("#rumproastrecipe").css("display","inline-block");
@@ -20,6 +16,4 @@ $(document).ready(function(){
 	$("#schnitzel").click(function(){
 		$("#schnitzelrecipe").slideToggle();
 	});
-
-
 });

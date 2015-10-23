@@ -14,23 +14,6 @@ $(document).ready(function() {
             $items.eq(nextIndex).fadeIn(1000);
         });
     }, 12000);
-
-    // ----------Recipes------------
-
-    $("#rumproast").click(function(){
-        $("#rumproastrecipe").slideToggle();
-    });
-    $("#ribs").click(function(){
-        $("#ribsrecipe").slideToggle();
-    });
-    $("#chitlins").click(function(){
-        $("#chitlinsrecipe").slideToggle();
-    });
-    $("#schnitzel").click(function(){
-        $("#schnitzelrecipe").slideToggle();
-    });
-
-
 // --------- FAQ jQuary -------------
 
 
